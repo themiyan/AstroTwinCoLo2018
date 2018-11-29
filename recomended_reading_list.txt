@@ -1,0 +1,19 @@
+The following review articles are highly encouraged to be read. 
+
+1. Modeling the Panchromatic Spectral Energy Distributions of Galaxies
+Conroy, Charlie
+https://ui.adsabs.harvard.edu/#abs/2013ARA&A..51..393C/abstract 
+
+2. Fitting the integrated spectral energy distributions of galaxies
+Walcher, Jakob; Groves, Brent; Budavári, Tamás; Dale, Daniel
+https://ui.adsabs.harvard.edu/#abs/2011Ap&SS.331....1W/abstract
+
+3. The Dust Opacity of Star-forming Galaxies
+Calzetti, Daniela
+https://ui.adsabs.harvard.edu/#abs/2001PASP..113.1449C/abstract 
+
+4. Physical Models of Galaxy Formation in a Cosmological Framework
+Somerville, Rachel S.; Davé, Romeel
+https://ui.adsabs.harvard.edu/#abs/2015ARA&A..53...51S/abstract
+
+
